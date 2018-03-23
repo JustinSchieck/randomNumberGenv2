@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Justin Schieck",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "proptypes": "^1.1.0",
+    "react": "^16.2.0",
+    "styled-components": "^3.2.3"
+  }
 }
